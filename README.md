@@ -2,6 +2,9 @@
 
 **A lightweight, ONNX-ported version of the NLTM-LID system for on-device Indian Language Identification.**
 
+> [!NOTE]
+> There is an even lighter and probably good enough accuracy model that supports many more languages - [ECAPA-TDNN](https://huggingface.co/speechbrain/lang-id-voxlingua107-ecapa).
+
 ---
 
 ### ⚠️ Attribution & Acknowledgements
